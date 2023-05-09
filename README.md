@@ -1,4 +1,4 @@
-# Compose Tetris
+# Compose Tetris Fork
 
 English | [中文介绍](https://github.com/vitaviva/compose-tetris/blob/master/README_zh.md)
 
